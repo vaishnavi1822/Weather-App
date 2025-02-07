@@ -17,7 +17,7 @@ This weather web app is built using **Vite + React**, showcasing real-time weath
 Features:
 Fetches live weather data using **OpenWeatherMap API**. Displays detailed weather information (temperature, humidity, etc.).Fully responsive UI for a smooth experience on all screen sizes. Built using Vite for fast development and build times.
 
-###OUTPUT
+### OUTPUT
 ![Image](https://github.com/user-attachments/assets/c5df6bad-d306-4073-aba6-78f6aac679e1)
 
 ![Image](https://github.com/user-attachments/assets/489174d8-6c4f-4dcf-b017-ea15205315b0)
