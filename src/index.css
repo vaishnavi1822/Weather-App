@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer components {
+    /* Custom Scrollbar for all elements */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+  
+    ::-webkit-scrollbar-thumb {
+      background-color: #31303069;
+      border-radius: 10px;
+    }
+  
+    ::-webkit-scrollbar-track {
+      background: #68676786;
+      border-radius: 10px;
+    }
+  }
